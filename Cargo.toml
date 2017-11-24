@@ -1,0 +1,6 @@
+[package]
+name = "bloatkill"
+version = "0.1.0"
+authors = ["Wojciech Karpiel <w.karpiel@yandex.com>"]
+
+[dependencies]
